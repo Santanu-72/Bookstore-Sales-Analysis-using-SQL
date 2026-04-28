@@ -53,6 +53,17 @@ Inventory tracking helps prevent stockouts and lost sales
 Month-over-month growth analysis revealed changes in revenue performance
 Helps identify periods of business growth and decline
 
+## 📊 Sample Outputs
+
+### 🔹 Top Customers
+![Top Customers](outputs/Top_3_customers.png)
+
+### 🔹 Most Frequently Ordered Book
+![Top Book](outputs/Top_book.png)
+
+### 🔹 Monthly Rebenue Growth
+![Revenue_trend](outputs/Revenue_trend.png)
+
 💡 **Recommendations**
 
 Focus on promoting top-performing books and genres
