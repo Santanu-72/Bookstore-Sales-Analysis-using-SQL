@@ -4,7 +4,7 @@
 
 📌 Business Overview
 
-This project is based on a local bookstore that manages its daily operations including book inventory, customer purchases, and order transactions. The store offers a wide range of books across different genres and serves customers from multiple locations.
+This project is based on a bookstore that manages its daily operations including book inventory, customer purchases, and order transactions. The store offers a wide range of books across different genres and serves customers from multiple locations.
 
 The goal of this project is to analyze transactional data using SQL to uncover meaningful insights that support data-driven decision-making in sales, customer behavior, and inventory management.
 
