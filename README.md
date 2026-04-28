@@ -62,7 +62,7 @@ Helps identify periods of business growth and decline
 ![Top Book](outputs/Top_book.png)
 
 ### 🔹 Monthly Rebenue Growth
-![Revenue_trend](outputs/Revenue_trend.png)
+![Monthly_revenue_growth](outputs/Monthly_revenue_growth.png)
 
 💡 **Recommendations**
 
