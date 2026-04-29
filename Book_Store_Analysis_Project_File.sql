@@ -103,8 +103,6 @@ LIMIT 1;
 -- Calculate the total revenue generated from all orders
 SELECT sum(total_amount ) FROM orders;
 
---Advance Queries
-
 -- Retrieve the total number of books sold for each genre
 SELECT b.genre, sum(o.quantity) AS total_books_sold
 FROM books b 
