@@ -1,4 +1,4 @@
-# Bookstore-Sales-Analysis-using-SQL
+# Bookstore Sales Analysis using SQL
 
 📊 Bookstore Sales Analysis using SQL
 
